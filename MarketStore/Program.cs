@@ -11,7 +11,6 @@ namespace MarketStore
         Bronze,
         Silver,
         Gold
-
     }
     class Program
     {
